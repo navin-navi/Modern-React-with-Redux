@@ -2,23 +2,23 @@
 
 Udemy Course by [Stephen Grider](https://wipro.udemy.com/user/sgslo/) as [Modern React With Redux](https://www.udemy.com/react-redux/)
 
-### [1. Let's Dive In!](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/1.%20Let's%20Dive%20In!)
+### [1. Let's Dive In!](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/01.%20Let's%20Dive%20In!)
 
-### [2. Building Content with JSX](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/2.%20Building%20Content%20with%20JSX)
+### [2. Building Content with JSX](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/02.%20Building%20Content%20with%20JSX)
 
-### [3. Communicating with Props](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/3.%20Communicating%20with%20Props)
+### [3. Communicating with Props](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/03.%20Communicating%20with%20Props)
 
-### [4. Structuring Apps with Class-Based Components](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/4.%20Structuring%20Apps%20with%20Class-Based%20Components)
+### [4. Structuring Apps with Class-Based Components](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/04.%20Structuring%20Apps%20with%20Class-Based%20Components)
 
-### [5. State in React Components](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/5.%20State%20in%20React%20Components)
+### [5. State in React Components](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/05.%20State%20in%20React%20Components)
 
-### [6. Understanding Lifecycle Methods](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/6.%20Understanding%20Lifecycle%20Methods)
+### [6. Understanding Lifecycle Methods](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/06.%20Understanding%20Lifecycle%20Methods)
 
-### [7. Handling User Input with Forms and Events](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/7.%20Handling%20User%20Input%20with%20Forms%20and%20Events)
+### [7. Handling User Input with Forms and Events](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/07.%20Handling%20User%20Input%20with%20Forms%20and%20Events)
 
-### [8. Making API Requests with React](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/8.%20Making%20API%20Requests%20with%20React)
+### [8. Making API Requests with React](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/08.%20Making%20API%20Requests%20with%20React)
 
-### [9. Building Lists of Records](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/9.%20Building%20Lists%20of%20Records)
+### [9. Building Lists of Records](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/09.%20Building%20Lists%20of%20Records)
 
 ### [10. Using Ref's for DOM Access](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/10.%20Using%20Ref's%20for%20DOM%20Access)
 

@@ -33,38 +33,15 @@
 "33. [Legacy - Do Not Take] Bonus - RallyCoding"
 "34. [Legacy - Do Not Take] React Router + Redux Form v4"
 
-echo "# Let's Dive In!" >>
-echo "# Building Content with JSX" >>
-echo "# Communicating with Props" >>
-echo "# Structuring Apps with Class-Based Components" >>
-echo "# State in React Components" >>
-echo "# Understanding Lifecycle Methods" >>
-echo "# Handling User Input with Forms and Events" >>
-echo "# Making API Requests with React" >>
-echo "# Building Lists of Records" >>
-echo "# Using Ref's for DOM Access" >>
-echo "# Let's Test Your React Mastery!" >>
-echo "# On We Go...To Redux!" >>
-echo "# Integrating React with Redux" >>
-echo "# Async Actions with Redux Thunk" >>
-echo "# Redux Store Design" >>
-echo "# Navigation with React Router" >>
-echo "# Handling Authentication with React" >>
-echo "# Redux Dev Tools" >>
-echo "# Handling Forms with Redux Form" >>
-echo "# REST-Based React Apps" >>
-echo "# Using React Portals" >>
-echo "# Implementing Streaming Video" >>
-echo "# The Context System with React" >>
-echo "# Replacing Redux with Context" >>
-echo "# Hooks with Functional Components" >>
-echo "# More Fun with Hooks" >>
-echo "# [Legacy] An Intro to React" >>
-echo "# [Legacy] Ajax Requests with React" >>
-echo "# [Legacy] Modeling Application State" >>
-echo "# [Legacy] Managing App State with Redux" >>
-echo "# [Legacy] Intermediate Redux: Middleware" >>
-echo "# [Legacy] React Router + Redux Form v6" >>
-echo "# [Legacy - Do Not Take] Bonus - RallyCoding" >>
-echo "# [Legacy - Do Not Take] React Router + Redux Form v4" >>
+mv "1. Let's Dive In!" "01. Let's Dive In!"
+
+mv "2. Building Content with JSX" "02. Building Content with JSX"
+mv "3. Communicating with Props" "03. Communicating with Props"
+mv "4. Structuring Apps with Class-Based Components" "04. Structuring Apps with Class-Based Components"
+mv "5. State in React Components" "05. State in React Components"
+mv "6. Understanding Lifecycle Methods" "06. Understanding Lifecycle Methods"
+mv "7. Handling User Input with Forms and Events" "07. Handling User Input with Forms and Events"
+mv "8. Making API Requests with React" "08. Making API Requests with React"
+mv "9. Building Lists of Records" "09. Building Lists of Records"
+
 undefined
