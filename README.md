@@ -2,6 +2,8 @@
 
 Udemy Course by [Stephen Grider](https://wipro.udemy.com/user/sgslo/) as [Modern React With Redux](https://www.udemy.com/react-redux/)
 
+Twitter : [Stephen Grider](https://twitter.com/ste_grider)
+
 ### [1. Let's Dive In!](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/01.%20Let's%20Dive%20In!)
 
 ### [2. Building Content with JSX](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/02.%20Building%20Content%20with%20JSX)
