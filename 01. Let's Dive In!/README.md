@@ -30,3 +30,17 @@ Imported the most needed libraries as a starter.
 import React from "react";
 import ReactDOM from "react-dom";
 ```
+
+Created a Basic React Component to display "Hi There" using **\*JSX**.
+
+```js
+const App = () => {
+  return <div>Hi There</div>;
+};
+```
+
+Now took that Basic Component and displayed it using `ReactDOM`.
+
+```js
+ReactDOM.render(<App />, document.querySelector("#root"));
+```
