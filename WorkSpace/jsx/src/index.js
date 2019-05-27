@@ -8,3 +8,4 @@ const App = () => {
 };
 
 // Take the React Component and show it on the screen
+ReactDOM.render(<App />, document.querySelector("#root"));
