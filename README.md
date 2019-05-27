@@ -1,6 +1,6 @@
 # Modern-React-With-Redux
 
-Udemy Course by [Stephen Grider](https://wipro.udemy.com/user/sgslo/) as [Modern React With Redux](https://www.udemy.com/react-redux/)
+Udemy Course by [Stephen Grider](https://www.udemy.com/user/sgslo/) as [Modern React With Redux](https://www.udemy.com/react-redux/)
 
 Twitter : [Stephen Grider](https://twitter.com/ste_grider)
 
