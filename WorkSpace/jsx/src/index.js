@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 // create a React Component
 const App = () => {
   return <div>
-    <h1>Hi There I am Excited</h1>
+    <h1>Remote Server in Local Host</h1>
   </div>;
 };
 
