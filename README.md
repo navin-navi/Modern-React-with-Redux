@@ -3,6 +3,7 @@
 Udemy Course by [Stephen Grider](https://www.udemy.com/user/sgslo/) as [Modern React With Redux](https://www.udemy.com/react-redux/)
 
 Twitter : [Stephen Grider](https://twitter.com/ste_grider)
+Github : [Stephen Grider](https://github.com/StephenGrider)
 
 ### [1. Let's Dive In!](https://github.com/NavinNavi19/Modern-React-with-Redux/tree/master/01.%20Let's%20Dive%20In!)
 
