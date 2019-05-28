@@ -6,7 +6,11 @@ import ReactDOM from "react-dom";
 const App = () => {
   return (
     <div>
-      <h1>React First Impression</h1>
+      <label class="label" for="text">
+        Enter Name:
+      </label>
+      <input type="text" id="text" />
+      <button style={{ backgroundColor: "red", color: "white" }}>Submit</button>
     </div>
   );
 };

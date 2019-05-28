@@ -30,4 +30,30 @@ var App = function App() {
 };
 ```
 
-Learned about the difference between JSX and HTML.
+Learned about the difference between `JSX` and `HTML`.
+
+**HTML Code**
+
+```html
+<div>
+  <label class="label" for="text">Enter Name:</label>
+  <input type="text" id="text" />
+  <button style="background-color: red; color: white">Submit</button>
+</div>
+```
+
+Got Error `Line 11: Style prop value must be an object react/style-prop-object`
+
+**JSX Equivalent Code**
+
+```js
+<div>
+  <label class="label" for="text">
+    Enter Name:
+  </label>
+  <input type="text" id="text" />
+  <button style={{ backgroundColor: "red", color: "white" }}>Submit</button>
+</div>
+```
+
+Everything should be converted to JS Objects for the React to render.
