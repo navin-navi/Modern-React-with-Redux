@@ -69,6 +69,4 @@ ReactDOM.render(<App />, document.querySelector("#root"));
 
 Final Image
 
-React First Impression
-
-![ReactFirstImpression](/assets/ReactFirstImpression.jpg)
+![ReactFirstImpression](../assets/ReactFirstImpression.jpg)
