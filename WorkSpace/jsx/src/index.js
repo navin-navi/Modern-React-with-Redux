@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 const App = () => {
   return (
     <div>
-      <h1>Remote Server in Local Host</h1>
+      <h1>React First Impression</h1>
     </div>
   );
 };
