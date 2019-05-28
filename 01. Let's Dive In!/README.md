@@ -45,9 +45,9 @@ Now took that Basic Component and displayed it using `ReactDOM`.
 ReactDOM.render(<App />, document.querySelector("#root"));
 ```
 
-**Section Completed**
+### Section Completed
 
-Final Code
+**Final Code**
 
 ```js
 // import React and React Dom Libraries
@@ -67,6 +67,6 @@ const App = () => {
 ReactDOM.render(<App />, document.querySelector("#root"));
 ```
 
-Final Image
+**Final Image**
 
 ![ReactFirstImpression](../assets/ReactFirstImpression.jpg)
