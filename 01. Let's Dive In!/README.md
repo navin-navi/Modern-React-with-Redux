@@ -5,15 +5,19 @@
 **Notes:**
 
 - Change Preprocessor to Babel.
-- Add React(knows components) and ReactDOM(knows to render the components) library.
+- Add **React** (knows components) and **ReactDOM** (knows to render the components) library.
 
-Uses JSX for HTML code in React DOM.
+Uses `JSX` for HTML code in React DOM.
 
-Install Node JS.
+Install `Node JS.`
 
 NPM install `npm install -g create-react-app`.
 
 `create-react-app jsx --use-npm` to use npm inside the new app.
+
+This installs all the necessary packages for the React App.
+
+Includes `Babel` for newer JS sytax.
 
 Yarn Pkg Manager will be used by default.
 `--use-npm` to bypass Yarn Pakage Manager.
