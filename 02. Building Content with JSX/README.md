@@ -48,7 +48,7 @@ Got Error `Line 11: Style prop value must be an object react/style-prop-object`
 
 ```js
 <div>
-  <label class="label" for="text">
+  <label className="label" for="text">
     Enter Name:
   </label>
   <input type="text" id="text" />
@@ -56,4 +56,5 @@ Got Error `Line 11: Style prop value must be an object react/style-prop-object`
 </div>
 ```
 
-Everything should be converted to JS Objects for the React to render.
+- Converted `style="background-color: red; color: white"` to `style={{ backgroundColor: "red", color: "white" }}`.
+- Converted `class` to `className`.
