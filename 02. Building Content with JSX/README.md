@@ -29,3 +29,5 @@ var App = function App() {
   );
 };
 ```
+
+Learned about the difference between JSX and HTML.
