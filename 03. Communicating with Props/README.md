@@ -36,3 +36,7 @@ Eg.
 > Image Faker Installed and Added
 
 > Copied one comment section to 2 more
+
+Created a CommentDetail.js and pasted the repeating comment code.
+
+> Seperate Component for Repeating Comment Section
