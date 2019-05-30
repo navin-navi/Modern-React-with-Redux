@@ -40,3 +40,9 @@ Eg.
 Created a CommentDetail.js and pasted the repeating comment code.
 
 > Seperate Component for Repeating Comment Section
+
+Exported and imported ComponentDetail.js and added to main component as `<ComponentDetail />`
+
+Copied thrice to get the same result as before
+
+> S03L32 Component Nesting

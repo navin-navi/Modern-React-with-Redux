@@ -1,53 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import faker from "faker";
+import ComponentDetail from "./CommentDetail";
 
 const App = () => {
   return (
     <div className="ui container">
       <div className="ui comments">
-        <div className="comment">
-          <a href="/" className="avatar">
-            <img alt="avatar" src={faker.image.avatar()} />
-          </a>
-          <div className="content">
-            <a href="/" className="author">
-              Sam
-            </a>
-            <div className="metadata">
-              <span className="date">Today at 6:35PM</span>
-            </div>
-            <div className="text">Nice Blog Post!!</div>
-          </div>
-        </div>
-        <div className="comment">
-          <a href="/" className="avatar">
-            <img alt="avatar" src={faker.image.avatar()} />
-          </a>
-          <div className="content">
-            <a href="/" className="author">
-              Sam
-            </a>
-            <div className="metadata">
-              <span className="date">Today at 6:35PM</span>
-            </div>
-            <div className="text">Nice Blog Post!!</div>
-          </div>
-        </div>
-        <div className="comment">
-          <a href="/" className="avatar">
-            <img alt="avatar" src={faker.image.avatar()} />
-          </a>
-          <div className="content">
-            <a href="/" className="author">
-              Sam
-            </a>
-            <div className="metadata">
-              <span className="date">Today at 6:35PM</span>
-            </div>
-            <div className="text">Nice Blog Post!!</div>
-          </div>
-        </div>
+        <ComponentDetail />
+        <ComponentDetail />
+        <ComponentDetail />
       </div>
     </div>
   );
