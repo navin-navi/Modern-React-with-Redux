@@ -32,3 +32,5 @@ Eg.
 ```jsx
 <img alt="avatar" src={faker.image.avatar()} />
 ```
+
+> Image Faker Installed and Added
