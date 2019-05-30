@@ -58,3 +58,25 @@ Got Error `Line 11: Style prop value must be an object react/style-prop-object`
 
 - Converted `style="background-color: red; color: white"` to `style={{ backgroundColor: "red", color: "white" }}`.
 - Converted `class` to `className`.
+
+Referencing the JS variable and function within JSX
+
+```js
+const App = () => {
+  // Javascript Variable
+  const buttonText = "Click Me";
+
+  return (
+    <div>
+      <label className="label" for="text">
+        Enter Name:
+      </label>
+      <input type="text" id="text" />
+      // Referencing the JS variable using {} inside the button text area
+      <button style={{ backgroundColor: "red", color: "white" }}>
+        {buttonText}
+      </button>
+    </div>
+  );
+};
+```
