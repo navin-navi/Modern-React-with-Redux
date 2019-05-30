@@ -34,3 +34,5 @@ Eg.
 ```
 
 > Image Faker Installed and Added
+
+> Copied one comment section to 2 more
