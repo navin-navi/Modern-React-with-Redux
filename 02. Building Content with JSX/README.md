@@ -107,9 +107,10 @@ const App = () => {
 ```
 
 **Watch Out when referencing JS Objects with in JSX**
-String, Number and Array can be passed without any issues
 
-```js
+**String, Number and Array** can be passed without any issues
+
+```jsx
 const App = () => {
   const buttonText = { text: "Click Me" };
   const labelText = "Enter Name:";
@@ -131,4 +132,13 @@ const App = () => {
     </div>
   );
 };
+```
+
+Console Log Error
+
+```js
+Warning: Invalid DOM property `for`. Did you mean `htmlFor`?
+    in label (at src/index.js:12)
+    in div (at src/index.js:11)
+    in App (at src/index.js:24)
 ```
