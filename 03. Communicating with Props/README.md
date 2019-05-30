@@ -8,7 +8,7 @@ Create a new application `create-react-app components --use-npm`
 
 Deleted all the pre built `src` files
 
-Added Semantic UI for CSS Styling.
+> Added Semantic UI for CSS Styling.
 
 ```html
 <link
@@ -17,4 +17,8 @@ Added Semantic UI for CSS Styling.
 />
 ```
 
-Created a Comment Component with Semantic UI
+New way to check the changes in the files.
+
+Add `>` infront of the commit names in md file. Reference it to the commit file.
+
+> Created a Comment Component with Semantic UI
