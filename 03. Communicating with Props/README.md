@@ -46,3 +46,11 @@ Exported and imported ComponentDetail.js and added to main component as `<Compon
 Copied thrice to get the same result as before
 
 > S03L32 Component Nesting
+
+Using Props System, values can be passed from Parent Component to Child Component
+
+![3 Tenents of React Components](../assets/MRR02.PNG)
+
+![3 Tenents of React Components](../assets/MRR03.PNG)
+
+> S03L33 React's Props System
