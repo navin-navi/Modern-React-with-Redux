@@ -6,7 +6,7 @@ A simple example is shown below,
 
 **React Component written in JSX**
 
-```js
+```jsx
 const App = () => {
   return (
     <div>
@@ -46,7 +46,7 @@ Got Error `Line 11: Style prop value must be an object react/style-prop-object`
 
 **JSX Equivalent Code**
 
-```js
+```jsx
 <div>
   <label className="label" for="text">
     Enter Name:
@@ -61,7 +61,7 @@ Got Error `Line 11: Style prop value must be an object react/style-prop-object`
 
 Referencing the JS variable within JSX
 
-```js
+```jsx
 const App = () => {
   // Javascript Variable
   const buttonText = "Click Me";
@@ -83,7 +83,7 @@ const App = () => {
 
 Referencing the JS Function within JSX
 
-```js
+```jsx
 // Javascript Function
 function getButton() {
   return "Click Me";
@@ -141,4 +141,26 @@ Warning: Invalid DOM property `for`. Did you mean `htmlFor`?
     in label (at src/index.js:12)
     in div (at src/index.js:11)
     in App (at src/index.js:24)
+```
+
+Can be solved by changing `for` with `htmlFor` in JSX
+
+```jsx
+const App = () => {
+  const buttonText = { text: "Click Me" };
+  const labelText = "Enter Name:";
+
+  return (
+    <div>
+      // <label className="label" for="text">
+      <label className="label" htmlFor="text">
+        {labelText}
+      </label>
+      <input type="text" id="text" />
+      <button style={{ backgroundColor: "red", color: "white" }}>
+        {buttonText.text}
+      </button>
+    </div>
+  );
+};
 ```

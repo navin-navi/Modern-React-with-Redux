@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <div>
-      <label className="label" for="text">
+      <label className="label" htmlFor="text">
         {labelText}
       </label>
       <input type="text" id="text" />

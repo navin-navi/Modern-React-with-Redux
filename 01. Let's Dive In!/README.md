@@ -37,7 +37,7 @@ import ReactDOM from "react-dom";
 
 Created a Basic React Component to display "Hi There" using **JSX**.
 
-```js
+```jsx
 const App = () => {
   return <div>Hi There</div>;
 };
@@ -45,7 +45,7 @@ const App = () => {
 
 Now took that Basic Component and displayed it using `ReactDOM`.
 
-```js
+```jsx
 ReactDOM.render(<App />, document.querySelector("#root"));
 ```
 
@@ -53,7 +53,7 @@ ReactDOM.render(<App />, document.querySelector("#root"));
 
 **Final Code**
 
-```js
+```jsx
 // import React and React Dom Libraries
 import React from "react";
 import ReactDOM from "react-dom";
