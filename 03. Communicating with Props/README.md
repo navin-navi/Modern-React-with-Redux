@@ -17,8 +17,18 @@ Deleted all the pre built `src` files
 />
 ```
 
-New way to check the changes in the files.
+> New way to check the changes in the files.
 
 Add `>` infront of the commit names in md file. Reference it to the commit file.
 
 > Created a Comment Component with Semantic UI
+
+Installed [Faker package](https://github.com/marak/Faker.js/) to insert fake image to our app.
+
+This was done using the API provided by them. A lot can be found in their repo.
+
+Eg.
+
+```jsx
+<img alt="avatar" src={faker.image.avatar()} />
+```
