@@ -105,3 +105,30 @@ const App = () => {
   );
 };
 ```
+
+**Watch Out when referencing JS Objects with in JSX**
+String, Number and Array can be passed without any issues
+
+```js
+const App = () => {
+  const buttonText = { text: "Click Me" };
+  const labelText = "Enter Name:";
+
+  return (
+    <div>
+      <label className="label" for="text">
+        {labelText} // Note
+      </label>
+      <input type="text" id="text" />
+      // JSX cannot reference a JS Object - Wrong Syntax
+      <button style={{ backgroundColor: "red", color: "white" }}>
+        {buttonText}
+      </button>
+      // Correct Syntax
+      <button style={{ backgroundColor: "red", color: "white" }}>
+        {buttonText.text}
+      </button>
+    </div>
+  );
+};
+```
