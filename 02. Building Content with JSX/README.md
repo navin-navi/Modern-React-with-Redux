@@ -199,7 +199,7 @@ const App = () => {
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
 ```
 
-> Final Code
+> **Final Code**
 
 ```jsx
 // import React and React Dom Libraries
@@ -228,4 +228,6 @@ const App = () => {
 ReactDOM.render(<App />, document.querySelector("#root"));
 ```
 
-Final Snap
+> **Final Snap**
+
+![React Section 2 Complete](../assets/ReactS02Final.PNG)
