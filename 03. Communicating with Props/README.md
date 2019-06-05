@@ -85,3 +85,7 @@ Added Approval Card JS Component
 `{props.children}` to get the childen(another component) within current component
 
 > **S03L39 Showing Custom Children**
+
+Sending normal HTML elements as children to Component.
+
+> **S03L40 Component Reuse**
