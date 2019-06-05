@@ -64,3 +64,7 @@ Get the `author` property in CommentDetail.js by passing `props` as an argument.
 Then access it as a normal JS variable `props.author`.
 
 > **S03L34 Passing and Receiving Props**
+
+Added Props for time, avatar and comment.
+
+> **S03L34 Passing Multiple Props**

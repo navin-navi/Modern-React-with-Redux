@@ -191,7 +191,6 @@ const App = () => {
 <div id="root"></div>
 
 <!--No need to change anything after this line!-->
-<!--No need to change anything after this line!-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.0.0/polyfill.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 <script src="https://unpkg.com/@babel/preset-env-standalone@7/babel-preset-env.min.js"></script>
