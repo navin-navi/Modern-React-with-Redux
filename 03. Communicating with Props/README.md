@@ -67,4 +67,15 @@ Then access it as a normal JS variable `props.author`.
 
 Added Props for time, avatar and comment.
 
-> **S03L34 Passing Multiple Props**
+> **S03L35 Passing Multiple Props**
+
+Already done the assignment in previous section.
+
+> **S03L36 Passing Props - Solutions**
+
+Learned about Component Reuse.
+Going to implement a approval card wrapping Comment Details.
+
+> **S03L37 Component Reuse**
+
+> **S03L38 Implementing an Approval Card**
