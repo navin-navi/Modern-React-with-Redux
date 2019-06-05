@@ -78,4 +78,10 @@ Going to implement a approval card wrapping Comment Details.
 
 > **S03L37 Component Reuse**
 
+Added Approval Card JS Component
+
 > **S03L38 Implementing an Approval Card**
+
+`{props.children}` to get the childen(another component) within current component
+
+> **S03L39 Showing Custom Children**
