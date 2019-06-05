@@ -89,3 +89,7 @@ Added Approval Card JS Component
 Sending normal HTML elements as children to Component.
 
 > **S03L40 Component Reuse**
+
+![Final Snap](../assets/MRR04.jpg)
+
+> **S03 Final Snap**
