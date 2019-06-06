@@ -13,3 +13,29 @@ window.navigator.geolocation.getCurrentPosition(
 ```
 
 > **S03L48 Getting a Users Physical Location**
+
+Used Class Method for declaring React Component
+
+```js
+class App extends React.Component {
+  render() {}
+}
+```
+
+Using State System with constructors.
+
+```js
+constructor(props) {
+    super(props);
+
+    this.state = { lat: null };
+  }
+```
+
+Set new values to the state and update the render when new state value is assigned.
+
+```js
+this.setState({ lat: position.coords.latitude });
+```
+
+> **S03L54 Updating State Properties**
