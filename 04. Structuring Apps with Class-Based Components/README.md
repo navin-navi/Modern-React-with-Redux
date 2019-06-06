@@ -39,3 +39,21 @@ this.setState({ lat: position.coords.latitude });
 ```
 
 > **S03L54 Updating State Properties**
+
+Added Conditional Redering.
+
+```jsx
+render() {
+    if (this.state.errorMessage && !this.state.lat) {
+      return <div>Error : {this.state.errorMessage}</div>;
+    }
+
+    if (!this.state.errorMessage && this.state.lat) {
+      return <div>Latitude : {this.state.lat}</div>;
+    }
+
+    return <div>Loading...</div>;
+  }
+```
+
+> **S03L57 Conditionally Rendering Content**
